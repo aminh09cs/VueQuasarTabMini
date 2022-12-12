@@ -1,0 +1,17 @@
+/* color palette from <https://github.com/vuejs/theme> */
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+ol, ul {
+	list-style: none;
+}
+a{
+  text-decoration: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
